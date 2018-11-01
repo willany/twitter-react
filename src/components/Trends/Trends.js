@@ -1,8 +1,9 @@
 import React from 'react'
+import './Trends.css'
 
 const Trends = () => {
     return (
-        <div>
+        <div className='Trends'>
             This is the trends
         </div>
     )
