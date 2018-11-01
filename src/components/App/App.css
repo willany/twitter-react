@@ -1,3 +1,13 @@
 .App{
-    border: 1px solid red
+    display: grid;
+    grid-template-rows: 50px 50px 150px 150px 50px;
+    grid-template-areas:
+        'header header header header'
+        'profile newcard newcard followers'
+        'profile card card followers'
+        'trends . . followers'
+        'trends . . .';
+    grid-gap: 10px; 
+    padding: 10px;
 }
+

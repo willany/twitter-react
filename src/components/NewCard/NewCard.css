@@ -1,3 +1,8 @@
 .NewCard{
-    border: 1px solid red;
+    grid-area: newcard;
+    background-color: #15202b;
+    background-clip: inherit;
+    border: 1px solid #38444d;
+    line-height: inherit;
+    padding: 15px;
 }
