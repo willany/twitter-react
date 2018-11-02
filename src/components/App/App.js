@@ -16,8 +16,11 @@ class App extends Component {
         <Profile />
         <Trends />
         <NewCard />
-        <Card />
-        <Card />
+        <div className='Cards'>
+          <Card />
+          <Card />
+          <Card />
+        </div>
         <Followers />
       </div>
     )

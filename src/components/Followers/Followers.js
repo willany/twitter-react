@@ -4,7 +4,7 @@ import './Followers.css'
 const Followers = () => {
     return (
         <div className='Followers'>
-            This is the Followers
+            Followers
         </div>
     )
 }

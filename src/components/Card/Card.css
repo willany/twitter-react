@@ -1,8 +1,8 @@
 .Card{
-    grid-area: card;
     background-color: #15202b;
     background-clip: inherit;
     border: 1px solid #38444d;
     line-height: inherit;
     padding: 15px;
+    min-height: 80px;
 }

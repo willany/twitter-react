@@ -4,7 +4,7 @@ import './Profile.css'
 const Profile = () => {
     return (
         <div className='Profile'>
-            This is the Profile
+            Profile
         </div>
     )
 }
